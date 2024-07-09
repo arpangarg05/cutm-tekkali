@@ -1,0 +1,57 @@
+Press 1 to insert in beginning 
+Press 2 to insert at end 
+Press 3 to delete at beginning 
+Press 4 to delte at end 
+Press 5 to display
+Press 0 for EXIT
+
+1
+Enter val to be inserted 
+12
+Press 1 to insert in beginning 
+Press 2 to insert at end 
+Press 3 to delete at beginning 
+Press 4 to delte at end 
+Press 5 to display
+Press 0 for EXIT
+
+1
+Enter val to be inserted 
+23
+Press 1 to insert in beginning 
+Press 2 to insert at end 
+Press 3 to delete at beginning 
+Press 4 to delte at end 
+Press 5 to display
+Press 0 for EXIT
+
+2
+Enter val to be inserted 
+32
+Press 1 to insert in beginning 
+Press 2 to insert at end 
+Press 3 to delete at beginning 
+Press 4 to delte at end 
+Press 5 to display
+Press 0 for EXIT
+
+2
+Enter val to be inserted 
+43
+Press 1 to insert in beginning 
+Press 2 to insert at end 
+Press 3 to delete at beginning 
+Press 4 to delte at end 
+Press 5 to display
+Press 0 for EXIT
+
+5
+23123243
+Press 1 to insert in beginning 
+Press 2 to insert at end 
+Press 3 to delete at beginning 
+Press 4 to delte at end 
+Press 5 to display
+Press 0 for EXIT
+
+0

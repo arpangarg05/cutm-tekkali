@@ -1,0 +1,57 @@
+1.Insert in begining
+2.Insert in end
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Print List
+7.Exit
+1
+
+Enter value of node to be inserted : 1
+1.Insert in begining
+2.Insert in end
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Print List
+7.Exit
+2
+
+Enter value5
+1.Insert in begining
+2.Insert in end
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Print List
+7.Exit
+3
+Enter the location1
+Enter value2
+
+node inserted
+1.Insert in begining
+2.Insert in end
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Print List
+7.Exit
+4
+1.Insert in begining
+2.Insert in end
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Print List
+7.Exit
+5
+1.Insert in begining
+2.Insert in end
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Print List
+7.Exit
+6
+5 ---2 ---
